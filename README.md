@@ -11,7 +11,8 @@ simple execute:
 $docker-compose build
 $docker-compose up
 -----------------------------
-Go to traefik dashboard ---> http and look for the ip address that traffik has alloted 
+Go to traefik dashboard ---> http and look for the ip address that traffik has alloted.
+
 http://<ap_address>:8000/container1
 http://<ap_address>:8000/container2
 
